@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "tslab": "^1.0.15"
+  },
+  "license": "MIT"
+}

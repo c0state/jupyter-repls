@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "ad hoc notebook"
+version = "0.1.0"
+description = "various ad hoc repls"
+authors = ["stephen.liu@alumni.stanford.edu"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+jupyterlab = "^3.0.5"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
